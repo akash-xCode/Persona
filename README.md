@@ -18,6 +18,7 @@ Open `http://localhost:3000`
 - `OPENAI_MODEL`
 - `APP_PASSCODE`
 - `SESSION_SECRET`
+- `PIYUSH_MANUAL_NOTES` optional private style notes kept only in env vars
 
 ## Notes
 
