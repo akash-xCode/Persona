@@ -1,0 +1,24 @@
+{
+  "name": "persona",
+  "version": "1.0.0",
+  "description": "A simple Hinglish persona chatbot for a cohort assignment.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "chatbot",
+    "persona",
+    "openai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.2.10",
+    "openai": "^6.45.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
